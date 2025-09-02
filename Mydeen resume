@@ -114,7 +114,8 @@
   <div class="resume">
     <!-- LEFT COLUMN -->
     <div class="left">
-      <img src="IMG_20250811_171623.jpg" alt="Profile Picture" class="profile-pic">
+      <img src="IMG_20250811_171623.jpg
+" alt="Profile Picture" class="profile-pic">
 
       <h3 class="section-title">Personal Skills</h3>
       <ul>
